@@ -5,9 +5,9 @@ import Log from "../../assets/logo.png"
 const Header = () => {
   return (
     <div id='menubar'>
-        <div className="container">
-          <div className="main">
-             <div className="logo">
+      <div className="container">
+        <div className="main">
+          <div className="logo">
             <img src={Log} alt="" />
           </div>
           <div className="menu">
@@ -21,10 +21,10 @@ const Header = () => {
           <div className="btn">
             <a href="#">Contact us</a>
           </div>
-          </div>
-
-
         </div>
+
+
+      </div>
     </div>
   )
 }

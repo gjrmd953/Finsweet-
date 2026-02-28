@@ -1,28 +1,50 @@
-#menubar{
+#menubar {
     background-color: #0D0D0D;
 }
-.main{
+
+.main {
     display: flex;
+    justify-content: space-between;
     align-items: center;
+
+
+
 }
-.menu ul{
+
+.menu {
     display: flex;
-    margin-left: 128px;
-    padding: 30px 0;
-}.menu ul li{
-    padding: 0 24px;
+    justify-content: center
+    
 }
-.menu ul li a{
+
+.menu ul {
+    display: flex;
+    padding: 30px 0;
+
+}
+
+.menu ul li {
+    padding: 0 25px;
+
+
+}
+
+.menu ul li a {
     font-family: "Roboto Condensed", sans-serif;
     font-size: 16px;
     font-weight: normal;
     color: #fff;
     text-transform: uppercase;
+
+
 }
-.btn{
-    padding-left: 350px;
+
+.btn {
+    /* padding-left: 350px; */
+
 }
-.btn a{
+
+.btn a {
     padding: 20px 48px;
     background-color: #FFD2A4;
     border-radius: 12px;
@@ -31,4 +53,5 @@
     font-weight: normal;
     color: #1C1D28;
     text-transform: uppercase;
+    text-align: end;
 }
