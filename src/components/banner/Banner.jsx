@@ -4,7 +4,13 @@ import "./banner.css";
 function Banner() {
   return (
     <div>
-        <h2>Banner</h2>
+       <div className="container">
+        <div className="banner">
+          <h2>
+            Become a part of our community
+          </h2>
+        </div>
+       </div>
     </div>
   )
 }
