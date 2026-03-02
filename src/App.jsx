@@ -3,6 +3,7 @@ import Blog from "./components/blog/Blog"
 import Footer from "./components/footer/Footer"
 import Header from "./components/header/Header"
 import Join from "./components/join/Join"
+import The from "./components/the/The"
 import We from "./components/we/We"
 
 function App() {
@@ -10,6 +11,7 @@ function App() {
     <>
     <Header />
     <Banner />
+    <The/>
     <Join/>
     <We/>
     <Blog/>
