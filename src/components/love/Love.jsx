@@ -2,7 +2,9 @@ import React from 'react'
 
 const Love = () => {
   return (
-    <div>Love</div>
+    <div>
+        <h2>love and compassion</h2>
+    </div>
   )
 }
 

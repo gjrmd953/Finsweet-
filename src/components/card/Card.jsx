@@ -3,7 +3,8 @@ import React from 'react'
 const Card = () => {
   return (
     <div>
-        <h2>sub-headline</h2>
+        <h5>sub-headline</h5>
+        <h2>a church that's relevant</h2>
     </div>
   )
 }
