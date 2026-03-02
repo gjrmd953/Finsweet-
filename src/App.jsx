@@ -1,5 +1,6 @@
 import Banner from "./components/banner/Banner"
 import Blog from "./components/blog/Blog"
+import Card from "./components/card/Card"
 import Footer from "./components/footer/Footer"
 import Header from "./components/header/Header"
 import Join from "./components/join/Join"
@@ -12,6 +13,7 @@ function App() {
     <>
     <Header />
     <Banner />
+    <Card/>
     <Love/>
     <The/>
     <Join/>
