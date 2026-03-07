@@ -29,5 +29,10 @@
     background-color: #FFD2A4;
     color: #161722 !important;
     border-radius: 12px;
+}
+.banner p {
+    font-family: "Roboto Condensed", sans-serif;
+    font-size: 16px;
+    padding-bottom: 128px;
 
 }

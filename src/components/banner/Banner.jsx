@@ -15,6 +15,7 @@ function Banner() {
           <a>
             Learn more
           </a>
+          <p>Lorem ipsum dolor sit amet, consectetur <br /> adipiscing elit, sed do.</p>
         </div>
        </div>
     </div>
