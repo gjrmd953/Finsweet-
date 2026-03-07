@@ -12,9 +12,9 @@ function Banner() {
           <h2>
             Become a part of our community
           </h2>
-          <p>
-            Become a part of our community
-          </p>
+          <a>
+            Learn more
+          </a>
         </div>
        </div>
     </div>
