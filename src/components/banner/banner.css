@@ -1,3 +1,10 @@
+
+.banner {
+ background-image: url("../assets/banner.jpg");
+  height: 500px;
+  background-size: cover;
+  background-position: center;
+}
 .banner h4 {
     font-family: "Roboto Condensed", sans-serif;
     font-size: 16px;
